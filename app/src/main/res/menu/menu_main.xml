@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.naghmeh.randompics.MainActivity">
+    <item android:id="@+id/action_newPics"
+        android:title="Random pictures"/>
+    <item android:id="@+id/action_search"
+        android:title="Search"/>
+    <item android:id="@+id/action_saved"
+        android:title="View saved images"/>
+
+
+
+</menu>
